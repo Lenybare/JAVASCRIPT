@@ -8,7 +8,7 @@
 })();
 // -- 2 -- afficher une suite de nombres de 10 à 1
 (function () {
-
+    // Je test
     for (let i = 10; i > 0; i--) {
         console.log(i)
     }
