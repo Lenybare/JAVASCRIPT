@@ -34,7 +34,7 @@
 })();
 // -- 5 -- afficher toutes les tables de multiplication de 1 à 10
 (function () {
-
+    // j
     for (let i = 0; i < 11; i++) {
         for (let b = 0; b < 11; b++) {
             console.log(b * i)
